@@ -1,0 +1,71 @@
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+p{
+   font-family: 'Overpass', sans-serif;
+}
+.carousel {
+    position:absolute;
+    top:0;
+}
+
+footer{border-top:100000px solid silver; padding:1em 0; margin:3em 0 0 0;}
+
+section{
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+.container{
+  align-content: center;
+}
+
+}
+div.padding {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.navbar {
+    position: fixed;
+    right: 0px;
+    top:0px;
+    z-index:1;
+    width:100%;
+    text-align: left;
+}
+.main-text
+{
+    position: absolute;
+    top: 130px;
+    width: 96.66666666666666%;
+    color: #FFF;
+    text-shadow: 0 0 8px #000000;
+}
+.btn-min-block
+{
+    min-width: 170px;
+    line-height: 26px;
+}
+.btn-clear
+{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    margin-right: 15px;
+}
+.btn-clear:hover
+{
+    color: #000;
+    background-color: #FFF;
+}
+
+.thumbnail{
+  padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
